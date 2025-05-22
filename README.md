@@ -7,7 +7,7 @@ This module provides a consistent image preprocessing function to be used across
 ## Installation
 
 ```bash
-pip install git+https://github.com/your-org/emnist-preprocessing.git
+pip install git+https://github.com/NSarikas123/cloud-computing-project-retraining.git
 ```
 
 ## Usage
